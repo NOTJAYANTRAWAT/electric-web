@@ -30,9 +30,7 @@ export default function Home() {
             className="w-[800px] h-[300px] bg-no-repeat bg-center bg-cover mx-auto"
             style={{ backgroundImage: 'url(/hills.jpg)' }}
           >
-            <img
-            src="e.png"
-            />
+            
             <div className="absolute top-0 left-0 w-full h-full flex justify-center items-center">
               {/* <p className="font-bold text-white text-4xl">Hello, welcome sir!</p> */}
             </div>
